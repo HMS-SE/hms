@@ -1,3 +1,6 @@
 -r common.txt 
+# testing
 pytest==7.1.2
 requests==2.27.1
+# styler
+black==21.10b0
