@@ -1,2 +1,6 @@
 fastapi==0.75.2
 uvicorn[standard]==0.17.6
+SQLAlchemy==1.4.3
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+python-multipart==0.0.5
